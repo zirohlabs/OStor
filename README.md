@@ -1,0 +1,2 @@
+# OStor
+OStor lets you securely store and share your personal and office files. It seamlessly integrates with many of your favourite file storage providers and can even be deployed on premises. OStor uses encryption to protect your privacy and confidentiality on the cloud and it renders data useless for hackers in the event of a data breach or stolen, lost devices. OStor is one of the world first, commercially available, file share, sync and collaborate application that protects Data in Use in addition to Data at Rest and Data in Transit.
