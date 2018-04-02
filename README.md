@@ -1,37 +1,5 @@
-## Welcome to OStor Pages
+![Ziroh Labs](https://github.com/zirohlabs/OStor/blob/master/Ziroh%20Labs%20Logo.png)
 
-You can use the [editor on GitHub](https://github.com/zirohlabs/OStor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ziroh Labs is a start-up formed with the core idea of creating privacy-preserving cryptographic systems that can be used en masse. We believe that privacy is a very important requirement and should be adhered to under all circumstances. While the traditional methods of privacy entail an implicit notion of trust to third-party service providers, it is being observed in multiple instances across the globe that such trust, however, does not exist. Ziroh Labs is formed to design systems where implicit trust mechanisms are a thing of the past, and users are endowed with complete controls on what is being shared, used and profiled.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zirohlabs/OStor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Team @ Ziroh Labs includes people that have decade long experience in designing and implementation of large scale distributed systems and cryptographic mechanisms. The team has developed cryptographic algorithms that allow encryption of data,  at Rest, in Transit and most importantly while data is “Operated On” .  Using this ground breaking encryption techniques, encrypted text, data or numbers are processed in encrypted form and are not required to be decrypted to process. Ziroh Labs techniques are not only production ready but also validated by the strong cryptographic test of randomness, linear and differential cryptanalysis methods. Ziroh Labs is located at Innovation Centre, International Institute of Information Technology, Bangalore, India
